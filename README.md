@@ -1,6 +1,6 @@
 # Scenario X Seed - Tier-1 QueueEnv Test Suite
 
-A comprehensive test scenario collection for evaluating scheduling and queueing systems under diverse conditions. Developed for the **Agen-X team**.
+A comprehensive test scenario collection for evaluating scheduling and queueing systems under diverse conditions. Developed for the **QBench team**.
 
 ## Overview
 
