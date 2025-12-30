@@ -123,4 +123,4 @@ The Tier-1 QueueEnv scenarios evaluate:
 
 ---
 
-**Developed for Agen-X team** | Tier-1 QueueEnv Test Suite
+**Developed for QBench team** | Tier-1 QueueEnv Test Suite
